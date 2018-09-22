@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">#Challenge Problem 6: Event</string>
+    <string name="tieude">Các kiểu lập trình sự kiện</string>
+    <string name="a">Số a:</string>
+    <string name="b">Số b:</string>
+    <string name="tong">Tổng hai số</string>
+    <string name="hieu">Hiệu hai số</string>
+    <string name="clean">Xóa</string>
+
+</resources>

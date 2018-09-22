@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">30dp</dimen>
+    <dimen name="height">50dp</dimen>
+
+    <dimen name="left">25dp</dimen>
+    <dimen name="right">25dp</dimen>
+    <dimen name="top">25dp</dimen>
+    <dimen name="bottom">15dp</dimen>
+
+    <dimen name="padding">10dp</dimen>
+    <dimen name="large_size">20sp</dimen>
+    <dimen name="small_size">15sp</dimen>
+
+
+</resources>
